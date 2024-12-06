@@ -1,0 +1,3 @@
+# Unhandled Exception in Asynchronous Dart Code
+
+This repository demonstrates a common error in Dart: not properly handling exceptions within asynchronous operations.  The `bug.dart` file shows code that makes an HTTP request but doesn't adequately handle potential exceptions like network errors or invalid JSON responses.  The `bugSolution.dart` file provides a corrected version with proper exception handling.
